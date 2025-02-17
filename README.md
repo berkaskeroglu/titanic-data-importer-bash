@@ -1,6 +1,5 @@
 # Titanic Data Importer for Hasura & PostgreSQL
 
-## Overview
 This Bash script reads Titanic dataset records from a CSV file and inserts them into a **Hasura GraphQL API** and a **PostgreSQL database**. Before inserting, it checks if the record already exists in **Hasura** and **PostgreSQL** to prevent duplicates.
 
 ## Features
