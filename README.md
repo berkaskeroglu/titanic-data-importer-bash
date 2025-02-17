@@ -21,7 +21,7 @@ Before running the script, ensure you have:
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/titanic-importer.git
+   git clone https://github.com/berkaskeroglu/titanic-importer-bash.git
    cd titanic-importer
 2. Update the script with your database credentials and Hasura API URL.
 3. 
