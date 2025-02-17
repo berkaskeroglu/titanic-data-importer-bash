@@ -23,14 +23,12 @@ Before running the script, ensure you have:
    ```
    git clone https://github.com/yourusername/titanic-importer.git
    cd titanic-importer
-   
 2. Update the script with your database credentials and Hasura API URL.
 3. 
 4. Run the script.
    ```
    chmod +x import.sh
    ./import.sh
-
 ## Configuration
   ```
   CSV_FILE="/path/to/titanic.csv"
