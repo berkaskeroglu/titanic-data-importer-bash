@@ -23,8 +23,7 @@ Before running the script, ensure you have:
    git clone https://github.com/berkaskeroglu/titanic-data-importer-bash.git
    cd titanic-importer
 2. Update the script with your database credentials and Hasura API URL.
-3. 
-4. Run the script.
+3. Run the script.
    ```
    chmod +x import.sh
    ./import.sh
